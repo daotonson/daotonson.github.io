@@ -1,0 +1,9 @@
+.container {
+  max-width: 65ch;   /* or 900px */
+  margin: 0 auto;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
